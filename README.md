@@ -41,6 +41,11 @@
 * [Promise에 대한 소개](https://github.com/forest-membership/thanos/blob/main/Node.js/Promise%EC%97%90_%EB%8C%80%ED%95%9C_%EC%86%8C%EA%B0%9C.md)  
 * [관찰자 패턴](https://github.com/forest-membership/thanos/blob/main/Node.js/%EA%B4%80%EC%B0%B0%EC%9E%90_%ED%8C%A8%ED%84%B4.md)  
 * [콜백과 이벤트](https://github.com/forest-membership/thanos/blob/main/Node.js/%EC%BD%9C%EB%B0%B1%EA%B3%BC_%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)  
+* [비동기 제어](https://github.com/forest-membership/thanos/blob/main/Node.js/%EB%B9%84%EB%8F%99%EA%B8%B0_%EC%A0%9C%EC%96%B4.md)
+* [스트림 코드](https://github.com/forest-membership/thanos/blob/main/Node.js/%EC%8A%A4%ED%8A%B8%EB%A6%BC_%EC%BD%94%EB%94%A9.md)
+* [스트림 코드 (이어서)](https://github.com/forest-membership/thanos/blob/main/Node.js/%EC%8A%A4%ED%8A%B8%EB%A6%BC_%EC%BD%94%EB%94%A9(%EC%9D%B4%EC%96%B4%EC%84%9C).md)
+* [생성자 디자인 패턴](https://github.com/forest-membership/thanos/blob/main/Node.js/%EC%83%9D%EC%84%B1%EC%9E%90_%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4.md)
+* [구조적 설계 패턴](https://github.com/forest-membership/thanos/blob/main/Node.js/%EA%B5%AC%EC%A1%B0%EC%A0%81_%EC%84%A4%EA%B3%84_%ED%8C%A8%ED%84%B4.md)
 
 <br />
 
