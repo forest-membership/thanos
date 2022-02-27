@@ -1,11 +1,12 @@
-const findRootFunction = () => {
-  const root = document.getElementById('root');
+import App from './components/App';
 
+const execute = () => {
+  const root = document.getElementById('root');
   if (root) {
-    root.innerHTML = `<h1>Hello World!!</h1>`;
+    new App(root);
   }
 };
 
-findRootFunction();
+execute();
 
 export {};
