@@ -24,6 +24,9 @@
 * [5장(any 타입)](https://github.com/forest-membership/thanos/blob/main/Typescript/effective-typescript-section5.md)  
 * [6장(타입 선언과 @types)](https://github.com/forest-membership/thanos/blob/main/Typescript/effective-typescript-section6.md)  
 
+### 📌 타입스크립트 프로그래밍 (JeongHyeon)
+* [TSC 와 타입 시스템](https://github.com/forest-membership/thanos/blob/main/Typescript/typescript-programming-1.md)
+
 <br />
 
 # JavaScript
