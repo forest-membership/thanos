@@ -55,4 +55,6 @@
 # 📚 함께 읽어봐요
 * [인프런 2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 
-- [바닐라 JS로 만드는 컴포넌트](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/#_1-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5)
+* [바닐라 JS로 만드는 컴포넌트](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/#_1-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5)
+
+* [CSS가 어려워진 이유에 대한 정리글]([CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1))
